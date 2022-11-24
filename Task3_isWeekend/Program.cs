@@ -6,3 +6,4 @@ if (day > 5 && day < 8)
 Console.WriteLine("Это выходной");
 if (day > 7)
 Console.WriteLine("Такого дня недели не существует");
+// проверка2
