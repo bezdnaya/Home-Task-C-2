@@ -1,0 +1,15 @@
+C:\HomeTaskC#2\Task1_2ndFigure\bin\Debug\net7.0\Task1_2ndFigure.exe
+C:\HomeTaskC#2\Task1_2ndFigure\bin\Debug\net7.0\Task1_2ndFigure.deps.json
+C:\HomeTaskC#2\Task1_2ndFigure\bin\Debug\net7.0\Task1_2ndFigure.runtimeconfig.json
+C:\HomeTaskC#2\Task1_2ndFigure\bin\Debug\net7.0\Task1_2ndFigure.dll
+C:\HomeTaskC#2\Task1_2ndFigure\bin\Debug\net7.0\Task1_2ndFigure.pdb
+C:\HomeTaskC#2\Task1_2ndFigure\obj\Debug\net7.0\Task1_2ndFigure.csproj.AssemblyReference.cache
+C:\HomeTaskC#2\Task1_2ndFigure\obj\Debug\net7.0\Task1_2ndFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeTaskC#2\Task1_2ndFigure\obj\Debug\net7.0\Task1_2ndFigure.AssemblyInfoInputs.cache
+C:\HomeTaskC#2\Task1_2ndFigure\obj\Debug\net7.0\Task1_2ndFigure.AssemblyInfo.cs
+C:\HomeTaskC#2\Task1_2ndFigure\obj\Debug\net7.0\Task1_2ndFigure.csproj.CoreCompileInputs.cache
+C:\HomeTaskC#2\Task1_2ndFigure\obj\Debug\net7.0\Task1_2ndFigure.dll
+C:\HomeTaskC#2\Task1_2ndFigure\obj\Debug\net7.0\refint\Task1_2ndFigure.dll
+C:\HomeTaskC#2\Task1_2ndFigure\obj\Debug\net7.0\Task1_2ndFigure.pdb
+C:\HomeTaskC#2\Task1_2ndFigure\obj\Debug\net7.0\Task1_2ndFigure.genruntimeconfig.cache
+C:\HomeTaskC#2\Task1_2ndFigure\obj\Debug\net7.0\ref\Task1_2ndFigure.dll
